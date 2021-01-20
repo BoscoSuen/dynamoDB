@@ -1,6 +1,6 @@
-# Project Milestone 4: DynamoDB
+# CSE 224: DynamoDB
 
-This is the starter code for Module 4: DynamoDB. Before you get started, you will want to understand the following things
+Before you get started, you will want to understand the following things
 - Vector clocks
 - Quorums
 
